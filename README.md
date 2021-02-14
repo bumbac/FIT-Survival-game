@@ -1,6 +1,6 @@
 # FIT Survival game
 
-![logo](/graphics/sprites/logo.png)
+![logo](sprites/logo.png)
 
 Hry vytvořena jako školní projekt na ČVUT FIT. Hrajete za budoucího studenta, který navštěvuje fakultu během dne otevřených dveří, kde narazí na nečekané dobrodružství.
 Game developed as a school project at CTU FIT. You play as a future student who visits the faculty during the open doors day while unexpected adventure awaits him.
